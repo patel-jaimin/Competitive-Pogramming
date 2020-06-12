@@ -1,5 +1,5 @@
 # Programming Repository #
 ### This repo holds problems solved on competitive programming websites. ###
-       ** 1. LeetCode **
-        **2. CodeChef 
+       __1. LeetCode__ 
+       __2. CodeChef 
  
